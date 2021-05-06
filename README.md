@@ -1,6 +1,18 @@
 The project is supervised by Aarne Klemetti and Janne Kauttonen.
 <br/>
 
+## 06 May &nbsp;—————————————
+Completed:
+- Included different coherence scores: c_v, c_uci and c_npmi
+- Added 'date' into the datasets, divided time slices for LDA sequence models
+- Run Dynamic Topic Models with interval of 2 years
+- Created Github repository, update files
+
+Plan for next week:
+- Start the thesis
+- Add the coherence scores for Dynamic Topic Models
+- Send code + dataset to Janne
+
 ## 28 April &nbsp;—————————————
 Completed:
 - Divide the datasets into smaller ones to plot the smoother coherence plots
