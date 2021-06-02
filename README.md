@@ -1,6 +1,38 @@
 The project is supervised by Aarne Klemetti and Janne Kauttonen.
 <br/>
 
+## 26 May &nbsp;—————————————
+Completed:
+- Explored the new dataset, did a little cleaning
+- Tested models with new dataset
+- Continued thesis writing: checked old codes, found lots of errors, and room to improve the old data analysis process
+
+Plan for next week:
+- Run the new dataset using LDA model, after that run with DTM
+- Write thesis when possible
+
+## 19 May &nbsp;—————————————
+Completed:
+- Experimented Puhti, run the first tests
+- Fixed errors, warnings in Puhti (mostly it was because of libraries's old versions)
+- Fixed read pickle file error (because older version of Python in Puhti)
+
+Plan for next week:
+- Work with new data from Janne
+- Run models with the new dataset
+- Continue thesis process
+
+## 12 May &nbsp;—————————————
+Completed:
+- Added coherence scores for Dynamic Topic Models
+- Finalized code for Janne to run in Puhti
+- Started thesis writing process
+
+Plan for next week:
+- Experiment with Puhti
+- Double-check the dataset (missing 2019, 2020 theses)
+- Implement pickle dataset
+
 ## 06 May &nbsp;—————————————
 Completed:
 - Included different coherence scores: c_v, c_uci and c_npmi
